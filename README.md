@@ -16,9 +16,19 @@ For onchain access version:
 - When verifying the access they will sign a transaction in order to do so
 - If they have access, they will see the data, else they won't.
 
-Sepolia GAVINNFT.sol address: 0x8730Bc786060d20eA57E691f19196C460bc5E8B4
+## Sepolia
+- GAVINNFT.sol: 0x8730Bc786060d20eA57E691f19196C460bc5E8B4 
+- AccesosNFT.sol: 0xC7cE6B5CcFbCE95574a0970A3aD348E887540E59
 
-Sepolia AccesosNFT.sol address: 0xC7cE6B5CcFbCE95574a0970A3aD348E887540E59
+## Ethereum 
+- GAVINNFT.sol: 0x63FA89eD879179743B332aCC13a7556E94d14e6c 
+- AccesosNFT.sol: 0xDCE176Ca20F545286EFA1b4afcfb4D7CCE1AA463
+## Polygon 
+- GAVINNFT.sol: 0x84887D6979F87B82230307eFE0F4A54C024a0990 
+- AccesosNFT.sol: 0x7c177Bdc428D80d95d53Fd39bdF5dca56eB22E92
+## Arbitrum 
+- GAVINNFT.sol: 0xA940aa59D0a9f58C5b8ffB47Cc76cc6343bB2C40
+- AccesosNFT.sol: 0xf8b841dc2680C7aecB0d841e716Ecd1D3BfF7bD2
 
 
 ## config.js
